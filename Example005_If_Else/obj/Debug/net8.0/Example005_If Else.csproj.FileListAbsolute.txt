@@ -1,0 +1,30 @@
+C:\Users\New\Documents\Examples\Example005_If Else\bin\Debug\net8.0\Example005_If Else.exe
+C:\Users\New\Documents\Examples\Example005_If Else\bin\Debug\net8.0\Example005_If Else.deps.json
+C:\Users\New\Documents\Examples\Example005_If Else\bin\Debug\net8.0\Example005_If Else.runtimeconfig.json
+C:\Users\New\Documents\Examples\Example005_If Else\bin\Debug\net8.0\Example005_If Else.dll
+C:\Users\New\Documents\Examples\Example005_If Else\bin\Debug\net8.0\Example005_If Else.pdb
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\Example005_If Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\Example005_If Else.AssemblyInfoInputs.cache
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\Example005_If Else.AssemblyInfo.cs
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\Example005_If Else.csproj.CoreCompileInputs.cache
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\Example005_If Else.sourcelink.json
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\Example005_If Else.dll
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\refint\Example005_If Else.dll
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\Example005_If Else.pdb
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\Example005_If Else.genruntimeconfig.cache
+C:\Users\New\Documents\Examples\Example005_If Else\obj\Debug\net8.0\ref\Example005_If Else.dll
+C:\Users\New\Documents\Examples\Example005_If_Else\bin\Debug\net8.0\Example005_If Else.exe
+C:\Users\New\Documents\Examples\Example005_If_Else\bin\Debug\net8.0\Example005_If Else.deps.json
+C:\Users\New\Documents\Examples\Example005_If_Else\bin\Debug\net8.0\Example005_If Else.runtimeconfig.json
+C:\Users\New\Documents\Examples\Example005_If_Else\bin\Debug\net8.0\Example005_If Else.dll
+C:\Users\New\Documents\Examples\Example005_If_Else\bin\Debug\net8.0\Example005_If Else.pdb
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\Example005_If Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\Example005_If Else.AssemblyInfoInputs.cache
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\Example005_If Else.AssemblyInfo.cs
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\Example005_If Else.csproj.CoreCompileInputs.cache
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\Example005_If Else.sourcelink.json
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\Example005_If Else.dll
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\refint\Example005_If Else.dll
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\Example005_If Else.pdb
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\Example005_If Else.genruntimeconfig.cache
+C:\Users\New\Documents\Examples\Example005_If_Else\obj\Debug\net8.0\ref\Example005_If Else.dll
