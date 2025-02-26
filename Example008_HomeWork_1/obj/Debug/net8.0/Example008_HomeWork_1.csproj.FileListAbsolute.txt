@@ -1,0 +1,15 @@
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\Example008_HomeWork_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\Example008_HomeWork_1.AssemblyInfoInputs.cache
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\Example008_HomeWork_1.AssemblyInfo.cs
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\Example008_HomeWork_1.csproj.CoreCompileInputs.cache
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\Example008_HomeWork_1.sourcelink.json
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\bin\Debug\net8.0\Example008_HomeWork_1.exe
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\bin\Debug\net8.0\Example008_HomeWork_1.deps.json
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\bin\Debug\net8.0\Example008_HomeWork_1.runtimeconfig.json
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\bin\Debug\net8.0\Example008_HomeWork_1.dll
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\bin\Debug\net8.0\Example008_HomeWork_1.pdb
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\Example008_HomeWork_1.dll
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\refint\Example008_HomeWork_1.dll
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\Example008_HomeWork_1.pdb
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\Example008_HomeWork_1.genruntimeconfig.cache
+C:\Users\New\Documents\Examples\Example008_HomeWork_1\obj\Debug\net8.0\ref\Example008_HomeWork_1.dll
